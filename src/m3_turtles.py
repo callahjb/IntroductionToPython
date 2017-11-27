@@ -117,7 +117,7 @@ joey.left(100)
 joey.forward(90)
 ########################################################################
 #
-# TODO: 5.
+# done: 5.
 #   Run one more time to be sure that all is still OK.
 #   Ensure that no blue bars on the scrollbar-thing to the right remain.
 #
