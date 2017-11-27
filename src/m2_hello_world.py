@@ -59,7 +59,7 @@ print('Hello, World')
 #   Look at the Console to be sure that your string printed as expected.
 #
 ########################################################################
-
+print("Joseph Callahan can run python scripts")
 ########################################################################
 #
 # TODO: 4.
@@ -73,7 +73,7 @@ print('Hello, World')
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
 ########################################################################
-
+print(3607*34227)
 ########################################################################
 #
 # TODO: 5.
